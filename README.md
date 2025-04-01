@@ -43,6 +43,6 @@ Welcome to my portfolio website! This repository contains the source code for my
 ## [Portfolio Website Click Here =>💁‍♂️🚀](http://christopher-portfolio-six.vercel.app)
 
 ## Screenshot:
-![image](https://github.com/medicindev/assets/img/me.png)
+![image](https://github.com/medicindev/Dev_Portfolio/assets/img/me.png)
 
 **Feel free to explore the code and customize it to suit your needs also Like and Give Heart to `[Christopher Moss](https://github.com/medicindev/)` ! Happy coding!**
